@@ -5,9 +5,10 @@ Welcome to the **ClagMundServices** product repository – your one-stop destina
 ## 🌟 Repository Structure
 
 - **web**: 🚀 Websites, dynamic web applications, and interactive tools.
+- **discord**: 👾 Discord based integrations and bots.
 - *More subfolders coming soon as we expand our product lineup!*
 
-Each product has its own markdown file detailing features, installation instructions, and usage guidelines, so you can easily dive into each project.
+Basic information is captured for each product via its own markdown file.
 
 ## 🎯 Purpose
 

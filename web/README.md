@@ -6,7 +6,6 @@ Welcome to the **Web** section of ClagMundServices! Here you'll discover all our
 
 - **Websites**: Stunning, fully-responsive sites that combine design with functionality.
 - **Web Tools**: Interactive calculators and utilities crafted to simplify your digital experience.
-- **Documentation**: Every project includes its own detailed markdown guide loaded with features, installation steps, and tips.
 
 ## 🎨 Our Mission
 
