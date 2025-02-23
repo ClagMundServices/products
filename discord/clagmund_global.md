@@ -36,7 +36,7 @@ ClagMund_Global is a specialized Discord bot dedicated exclusively to Twitch not
 ---
 
 ## Details
-- **Date Created:** YYYY-MM-DD  
+- **Date Created:** 2025-02-07  
 - **Commissioned By:** Internal ClagMundServices Team  
 - **Discord Servers Used In:** 
   - The ClagNut Factory
